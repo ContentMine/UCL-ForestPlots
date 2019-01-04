@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg style="font-family:helvetica;font-size:10.0px;" tesseractVersion="tesseract 3.05.02" height="729.0" width="52.0" xmlns="http://www.w3.org/2000/svg">
+ <g class="wordPageList">
+  <g class="wordPage" id="page_1">
+   <g class="wordBlock" id="block_1_1">
+    <g class="para" id="par_1_1">
+     <g class="line" id="line_1_1"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_2">
+    <g class="para" id="par_1_2">
+     <g class="line" id="line_1_2"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_3">
+    <g class="para" id="par_1_3">
+     <g class="line" id="line_1_3"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_4">
+    <g class="para" id="par_1_4">
+     <g class="line" id="line_1_4"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_5">
+    <g class="para" id="par_1_5">
+     <g class="line" id="line_1_5"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_6">
+    <g class="para" id="par_1_6">
+     <g class="line" id="line_1_6"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_7">
+    <g class="para" id="par_1_7">
+     <g class="line" id="line_1_7"/>
+    </g>
+   </g>
+   <g class="wordBlock" id="block_1_8">
+    <g class="para" id="par_1_8">
+     <g id="line_1_8" baseline="(-109.333,437.333)" style="font-size:30.0px;" class="line">
+      <rect x="25.0" y="63.0" width="17.0" height="656.0" style="fill:yellow;opacity:0.2;"/>
+      <g id="word_1_8" class="word" x_wconf="51">
+       <rect x="25.0" y="63.0" width="16.0" height="40.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="25.0" y="93.0" style="fill:red;font-size:30.0px;opacity:0.357;">L;</text>
+      </g>
+      <g id="word_1_9" class="word" x_wconf="62">
+       <rect x="25.0" y="559.0" width="8.0" height="12.0" style="fill:green;opacity:0.2;"/>
+       <text x="25.0" y="571.0" style="font-size:12.0px;">J</text>
+      </g>
+      <g id="word_1_10" class="word" x_wconf="37">
+       <rect x="25.0" y="594.0" width="17.0" height="125.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="25.0" y="624.0" style="fill:red;font-size:30.0px;opacity:0.259;">.LLZWW:</text>
+      </g>
+     </g>
+     <g id="line_1_9" style="font-size:30.0px;" class="line">
+      <rect x="20.0" y="63.0" width="17.0" height="656.0" style="fill:yellow;opacity:0.2;"/>
+      <g id="word_1_11" class="word" x_wconf="37">
+       <rect x="20.0" y="63.0" width="8.0" height="205.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="20.0" y="93.0" style="fill:red;font-size:30.0px;opacity:0.259;">”kn</text>
+      </g>
+      <g id="word_1_12" class="word" x_wconf="40">
+       <rect x="20.0" y="280.0" width="9.0" height="222.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="20.0" y="310.0" style="fill:red;font-size:30.0px;opacity:0.28;">kkkak</text>
+      </g>
+      <g id="word_1_13" class="word" x_wconf="43">
+       <rect x="20.0" y="514.0" width="17.0" height="205.0" style="fill:green;opacity:0.2;stroke-width:3.0;"/>
+       <text x="20.0" y="544.0" style="fill:red;font-size:39.0px;opacity:0.301;">:azzm</text>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
